@@ -1,0 +1,19 @@
+facility_id,facility_name,facility_type,zip_area_id,urban_rural_group,teaching_site_flag,service_line_focus
+HOSP01,Riverbend Medical Center,Hospital,ZA010,Urban core,1,Acute care hospital
+ED01,Riverbend Medical Center Emergency Department,ED,ZA010,Urban core,1,Emergency care
+UC01,Riverbend East Urgent Care,Urgent care,ZA024,Suburban,0,Urgent care
+UC02,Riverbend West Urgent Care,Urgent care,ZA058,Small town,0,Urgent care
+PC01,Riverbend Downtown Family Medicine,Primary care clinic,ZA004,Urban core,1,Primary care
+PC02,Riverbend South Family Medicine,Primary care clinic,ZA046,Rural,0,Primary care
+PC03,Riverbend East Primary Care,Primary care clinic,ZA025,Suburban,0,Primary care
+PC04,Riverbend West Primary Care,Primary care clinic,ZA054,Small town,0,Primary care
+PC05,Riverbend North Family Medicine,Primary care clinic,ZA036,Small town,0,Primary care
+PC06,Riverbend Midtown Internal Medicine,Primary care clinic,ZA012,Urban core,1,Primary care
+SP01,Riverbend Cardiology Center,Specialty clinic,ZA011,Urban core,1,Cardiology
+SP02,Riverbend Endocrinology and Metabolism,Specialty clinic,ZA013,Urban core,1,Endocrinology
+SP03,Riverbend Behavioral Health,Specialty clinic,ZA015,Urban core,1,Behavioral health
+SP04,Riverbend Women's Health,Specialty clinic,ZA026,Suburban,0,OB/GYN
+SP05,Riverbend Orthopedics and Sports Medicine,Specialty clinic,ZA014,Urban core,1,Orthopedics
+SP06,Riverbend Pulmonary and Sleep Medicine,Specialty clinic,ZA016,Urban core,1,Pulmonology
+IM01,Riverbend Imaging Center,Imaging center,ZA017,Urban core,1,Imaging
+LAB01,Riverbend Laboratory Services,Lab center,ZA018,Urban core,1,Laboratory
