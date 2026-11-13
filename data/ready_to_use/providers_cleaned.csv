@@ -1,0 +1,181 @@
+provider_id,provider_type,specialty_group,years_in_practice,fte_status,panel_size,language_1,language_2,provider_gender,provider_age_band
+RBPV0001,NP,Primary care,16,Per diem,1717.0,English,,Man,55-64
+RBPV0002,MD,Primary care,20,Full-time,1705.0,English,,Woman,45-54
+RBPV0003,MD,Primary care,23,Full-time,1407.0,French,Spanish,Woman,35-44
+RBPV0004,MD,Primary care,11,Full-time,1475.0,English,,Man,25-34
+RBPV0005,MD,Primary care,14,Full-time,1452.0,Spanish,,Woman,35-44
+RBPV0006,RN,Primary care,2,Part-time,,English,,Woman,45-54
+RBPV0007,PA,Primary care,11,Part-time,1415.0,Mandarin,Mandarin,Man,35-44
+RBPV0008,RN,Primary care,13,Part-time,,English,,Man,25-34
+RBPV0009,NP,Primary care,9,Full-time,1229.0,English,,Woman,35-44
+RBPV0010,DO,Primary care,16,Full-time,1035.0,Arabic,Spanish,Woman,55-64
+RBPV0011,DO,Primary care,8,Full-time,1428.0,English,Spanish,Man,55-64
+RBPV0012,NP,Primary care,17,Full-time,1448.0,Spanish,Spanish,Man,55-64
+RBPV0013,MD,Primary care,11,Full-time,1742.0,Nepali,Spanish,Woman,25-34
+RBPV0014,MD,Primary care,3,Full-time,1020.0,Nepali,,Man,55-64
+RBPV0015,NP,Primary care,7,Full-time,1519.0,English,,Woman,45-54
+RBPV0016,PA,Primary care,13,Full-time,1000.0,English,,Man,45-54
+RBPV0017,RN,Primary care,7,Full-time,,English,,Woman,45-54
+RBPV0018,NP,Primary care,1,Full-time,1447.0,Arabic,Arabic,Man,45-54
+RBPV0019,NP,Primary care,1,Per diem,1164.0,English,Spanish,Man,35-44
+RBPV0020,MD,Primary care,9,Full-time,1350.0,Nepali,,Man,25-34
+RBPV0021,NP,Primary care,0,Full-time,1548.0,English,Mandarin,Man,45-54
+RBPV0022,PA,Primary care,3,Full-time,1447.0,Mandarin,,Woman,65+
+RBPV0023,NP,Primary care,20,Full-time,1459.0,English,,Woman,35-44
+RBPV0024,NP,Primary care,2,Part-time,1876.0,English,,Man,25-34
+RBPV0025,RN,Primary care,6,Per diem,,Arabic,,Woman,25-34
+RBPV0026,NP,Primary care,7,Part-time,1471.0,French,,Woman,55-64
+RBPV0027,NP,Primary care,12,Full-time,1016.0,Mandarin,,Woman,25-34
+RBPV0028,MD,Primary care,16,Full-time,1309.0,Nepali,,Woman,45-54
+RBPV0029,MD,Primary care,17,Full-time,1671.0,English,,Woman,35-44
+RBPV0030,NP,Primary care,9,Full-time,1354.0,Arabic,,Woman,25-34
+RBPV0031,NP,Primary care,6,Full-time,1733.0,English,,Woman,25-34
+RBPV0032,MD,Primary care,19,Full-time,992.0,English,,Man,25-34
+RBPV0033,RN,Primary care,8,Per diem,,Spanish,,Woman,35-44
+RBPV0034,NP,Primary care,3,Full-time,1521.0,Mandarin,,Woman,45-54
+RBPV0035,NP,Primary care,6,Full-time,1357.0,Spanish,,Man,65+
+RBPV0036,NP,Primary care,3,Part-time,1259.0,English,,Man,35-44
+RBPV0037,MD,Cardiology,7,Full-time,657.0,French,,Man,45-54
+RBPV0038,MD,Cardiology,5,Full-time,271.0,French,,Woman,65+
+RBPV0039,MD,Cardiology,17,Full-time,876.0,Nepali,,Man,35-44
+RBPV0040,RN,Cardiology,12,Full-time,,Spanish,,Woman,35-44
+RBPV0041,MD,Cardiology,11,Full-time,697.0,English,,Woman,65+
+RBPV0042,NP,Cardiology,15,Full-time,285.0,English,,Man,35-44
+RBPV0043,MD,Cardiology,10,Full-time,338.0,English,,Woman,35-44
+RBPV0044,DO,Cardiology,17,Part-time,609.0,French,,Man,35-44
+RBPV0045,RN,Cardiology,7,Full-time,,English,,Man,25-34
+RBPV0046,RN,Cardiology,1,Full-time,,Nepali,,Woman,65+
+RBPV0047,NP,Cardiology,11,Part-time,823.0,French,,Woman,45-54
+RBPV0048,PA,Cardiology,13,Full-time,250.0,Mandarin,,Woman,55-64
+RBPV0049,NP,Endocrinology,20,Full-time,250.0,French,ASL,Woman,35-44
+RBPV0050,NP,Endocrinology,10,Part-time,308.0,English,,Man,25-34
+RBPV0051,NP,Endocrinology,7,Full-time,496.0,French,,Woman,35-44
+RBPV0052,RN,Endocrinology,8,Full-time,,Spanish,,Man,55-64
+RBPV0053,MD,Endocrinology,17,Full-time,710.0,French,,Woman,25-34
+RBPV0054,RN,Endocrinology,7,Part-time,,Nepali,Spanish,Woman,35-44
+RBPV0055,RN,Endocrinology,3,Full-time,,French,,Man,25-34
+RBPV0056,NP,Endocrinology,8,Full-time,959.0,French,,Woman,45-54
+RBPV0057,MD,Behavioral health,10,Full-time,539.0,Spanish,,Woman,65+
+RBPV0058,NP,Behavioral health,3,Full-time,250.0,Nepali,,Woman,25-34
+RBPV0059,MD,Behavioral health,15,Full-time,519.0,Spanish,,Woman,25-34
+RBPV0060,Behavioral health clinician,Behavioral health,1,Full-time,690.0,Arabic,,Woman,55-64
+RBPV0061,NP,Behavioral health,3,Part-time,688.0,English,Mandarin,Man,35-44
+RBPV0062,Behavioral health clinician,Behavioral health,0,Full-time,467.0,Nepali,,Woman,35-44
+RBPV0063,MD,Behavioral health,4,Full-time,653.0,Mandarin,,Man,35-44
+RBPV0064,RN,Behavioral health,6,Full-time,,Mandarin,,Man,35-44
+RBPV0065,Behavioral health clinician,Behavioral health,7,Full-time,633.0,English,Arabic,Man,35-44
+RBPV0066,Behavioral health clinician,Behavioral health,15,Full-time,424.0,Nepali,,Man,35-44
+RBPV0067,RN,Behavioral health,2,Per diem,,Mandarin,,Man,55-64
+RBPV0068,Behavioral health clinician,Behavioral health,2,Full-time,561.0,English,,Woman,35-44
+RBPV0069,Behavioral health clinician,Behavioral health,6,Full-time,741.0,English,,Man,55-64
+RBPV0070,Behavioral health clinician,Behavioral health,4,Full-time,250.0,English,,Man,55-64
+RBPV0071,MD,OB/GYN,12,Per diem,556.0,English,,Woman,25-34
+RBPV0072,PA,OB/GYN,0,Full-time,250.0,Spanish,,Woman,35-44
+RBPV0073,RN,OB/GYN,10,Full-time,,English,,Woman,35-44
+RBPV0074,RN,OB/GYN,9,Full-time,,English,,Woman,35-44
+RBPV0075,MD,OB/GYN,9,Full-time,615.0,Spanish,,Man,65+
+RBPV0076,DO,OB/GYN,7,Per diem,347.0,English,,Woman,55-64
+RBPV0077,MD,OB/GYN,0,Full-time,655.0,English,,Man,35-44
+RBPV0078,PA,OB/GYN,3,Full-time,449.0,Arabic,,Woman,25-34
+RBPV0079,RN,OB/GYN,16,Full-time,,English,,Woman,65+
+RBPV0080,RN,OB/GYN,14,Part-time,,English,,Woman,45-54
+RBPV0081,DO,Orthopedics,0,Full-time,,English,Spanish,Man,55-64
+RBPV0082,MD,Orthopedics,12,Full-time,,Nepali,,Woman,35-44
+RBPV0083,MD,Orthopedics,8,Per diem,,English,,Man,35-44
+RBPV0084,MD,Orthopedics,7,Part-time,,Spanish,,Man,35-44
+RBPV0085,MD,Orthopedics,4,Full-time,,English,,Woman,35-44
+RBPV0086,MD,Orthopedics,13,Per diem,,French,,Woman,55-64
+RBPV0087,MD,Orthopedics,13,Part-time,,Mandarin,,Woman,25-34
+RBPV0088,MD,Orthopedics,9,Full-time,,French,,Woman,35-44
+RBPV0089,PA,Orthopedics,7,Full-time,,Mandarin,,Woman,35-44
+RBPV0090,MD,Orthopedics,12,Full-time,,French,,Woman,55-64
+RBPV0091,MD,Orthopedics,10,Full-time,,English,,Man,35-44
+RBPV0092,MD,Orthopedics,6,Per diem,,English,,Man,55-64
+RBPV0093,PA,Pulmonology,14,Full-time,461.0,French,,Woman,55-64
+RBPV0094,PA,Pulmonology,6,Full-time,250.0,English,,Woman,45-54
+RBPV0095,PA,Pulmonology,19,Part-time,686.0,Nepali,,Man,45-54
+RBPV0096,DO,Pulmonology,12,Full-time,250.0,Spanish,Mandarin,Woman,35-44
+RBPV0097,DO,Pulmonology,3,Part-time,250.0,Mandarin,,Man,45-54
+RBPV0098,RN,Pulmonology,0,Full-time,,Spanish,,Man,25-34
+RBPV0099,NP,Pulmonology,8,Part-time,250.0,English,,Woman,45-54
+RBPV0100,DO,Pulmonology,15,Full-time,425.0,Mandarin,,Man,35-44
+RBPV0101,MD,Urgent care,13,Part-time,,Mandarin,ASL,Man,25-34
+RBPV0102,PA,Urgent care,0,Part-time,,English,,Man,45-54
+RBPV0103,DO,Urgent care,1,Part-time,,English,,Woman,55-64
+RBPV0104,PA,Urgent care,4,Part-time,,English,,Woman,55-64
+RBPV0105,MD,Urgent care,5,Full-time,,Mandarin,,Woman,55-64
+RBPV0106,MD,Urgent care,10,Full-time,,English,,Man,35-44
+RBPV0107,PA,Urgent care,7,Full-time,,English,,Woman,55-64
+RBPV0108,MD,Urgent care,8,Full-time,,Mandarin,,Woman,45-54
+RBPV0109,PA,Urgent care,7,Per diem,,Nepali,Mandarin,Woman,45-54
+RBPV0110,MD,Urgent care,21,Full-time,,English,,Man,35-44
+RBPV0111,MD,Emergency medicine,14,Full-time,,English,,Man,65+
+RBPV0112,NP,Emergency medicine,0,Full-time,,French,,Man,25-34
+RBPV0113,MD,Emergency medicine,18,Full-time,,English,,Woman,35-44
+RBPV0114,PA,Emergency medicine,7,Full-time,,English,,Woman,45-54
+RBPV0115,DO,Emergency medicine,11,Full-time,,English,Mandarin,Man,65+
+RBPV0116,MD,Emergency medicine,4,Part-time,,English,,Man,45-54
+RBPV0117,PA,Emergency medicine,12,Part-time,,Arabic,,Man,35-44
+RBPV0118,RN,Emergency medicine,1,Full-time,,Nepali,ASL,Man,45-54
+RBPV0119,NP,Emergency medicine,8,Full-time,,English,,Man,25-34
+RBPV0120,NP,Emergency medicine,9,Full-time,,English,,Man,45-54
+RBPV0121,MD,Emergency medicine,10,Full-time,,Mandarin,,Woman,45-54
+RBPV0122,PA,Emergency medicine,12,Full-time,,English,ASL,Man,25-34
+RBPV0123,MD,Emergency medicine,11,Full-time,,English,,Woman,35-44
+RBPV0124,NP,Emergency medicine,5,Per diem,,French,,Man,45-54
+RBPV0125,DO,Emergency medicine,17,Full-time,,English,,Man,45-54
+RBPV0126,MD,Emergency medicine,14,Part-time,,Mandarin,Arabic,Man,45-54
+RBPV0127,PA,Emergency medicine,9,Full-time,,English,Arabic,Man,45-54
+RBPV0128,PA,Emergency medicine,6,Full-time,,English,Mandarin,Woman,45-54
+RBPV0129,RN,Emergency medicine,0,Per diem,,English,Spanish,Man,35-44
+RBPV0130,MD,Emergency medicine,8,Full-time,,English,Spanish,Man,35-44
+RBPV0131,PA,Emergency medicine,6,Full-time,,English,ASL,Man,65+
+RBPV0132,MD,Emergency medicine,11,Full-time,,English,,Man,45-54
+RBPV0133,RN,Emergency medicine,5,Per diem,,Mandarin,,Man,45-54
+RBPV0134,MD,Emergency medicine,15,Full-time,,English,Mandarin,Woman,25-34
+RBPV0135,NP,Hospital medicine,9,Full-time,,Nepali,,Woman,25-34
+RBPV0136,NP,Hospital medicine,2,Full-time,,English,Spanish,Woman,25-34
+RBPV0137,NP,Hospital medicine,6,Full-time,,Mandarin,,Man,55-64
+RBPV0138,MD,Hospital medicine,12,Part-time,,English,,Woman,25-34
+RBPV0139,NP,Hospital medicine,5,Part-time,,English,,Man,35-44
+RBPV0140,MD,Hospital medicine,12,Full-time,,English,,Man,55-64
+RBPV0141,MD,Hospital medicine,7,Part-time,,Spanish,Spanish,Woman,65+
+RBPV0142,MD,Hospital medicine,13,Full-time,,Nepali,,Woman,45-54
+RBPV0143,MD,Hospital medicine,13,Full-time,,English,,Nonbinary,25-34
+RBPV0144,NP,Hospital medicine,6,Full-time,,Arabic,,Woman,35-44
+RBPV0145,RN,Hospital medicine,14,Full-time,,Mandarin,,Woman,45-54
+RBPV0146,NP,Hospital medicine,10,Full-time,,Spanish,,Man,35-44
+RBPV0147,MD,Hospital medicine,5,Full-time,,Nepali,,Woman,55-64
+RBPV0148,MD,Hospital medicine,11,Full-time,,Mandarin,,Man,45-54
+RBPV0149,RN,General surgery,9,Part-time,,Mandarin,Mandarin,Man,55-64
+RBPV0150,MD,General surgery,28,Full-time,,English,,Nonbinary,45-54
+RBPV0151,MD,General surgery,9,Full-time,,Arabic,,Woman,45-54
+RBPV0152,RN,General surgery,5,Full-time,,English,,Woman,55-64
+RBPV0153,MD,General surgery,11,Full-time,,English,,Man,35-44
+RBPV0154,RN,General surgery,14,Full-time,,English,,Woman,35-44
+RBPV0155,PA,General surgery,8,Per diem,,English,,Man,35-44
+RBPV0156,PA,General surgery,2,Per diem,,Spanish,,Man,25-34
+RBPV0157,PA,General surgery,3,Per diem,,Mandarin,,Nonbinary,55-64
+RBPV0158,MD,General surgery,13,Part-time,,English,,Man,45-54
+RBPV0159,RN,Critical care,8,Part-time,,Nepali,,Man,35-44
+RBPV0160,NP,Critical care,0,Full-time,,Nepali,,Woman,55-64
+RBPV0161,MD,Critical care,13,Full-time,,English,Mandarin,Woman,25-34
+RBPV0162,MD,Critical care,7,Full-time,,Arabic,,Man,55-64
+RBPV0163,MD,Critical care,7,Full-time,,English,Mandarin,Woman,35-44
+RBPV0164,PA,Critical care,4,Full-time,,Spanish,,Woman,45-54
+RBPV0165,RN,Radiology,11,Per diem,,French,,Woman,35-44
+RBPV0166,MD,Radiology,3,Full-time,,Arabic,,Woman,45-54
+RBPV0167,RN,Radiology,11,Full-time,,English,Spanish,Nonbinary,25-34
+RBPV0168,MD,Radiology,22,Part-time,,English,,Woman,35-44
+RBPV0169,MD,Radiology,8,Per diem,,English,,Man,35-44
+RBPV0170,MD,Radiology,13,Full-time,,English,Arabic,Nonbinary,35-44
+RBPV0171,MD,Radiology,0,Per diem,,English,,Woman,45-54
+RBPV0172,RN,Radiology,10,Full-time,,English,,Man,55-64
+RBPV0173,MD,Pathology,18,Part-time,,English,,Man,35-44
+RBPV0174,MD,Pathology,11,Part-time,,Spanish,Spanish,Man,55-64
+RBPV0175,RN,Pathology,8,Full-time,,Mandarin,Spanish,Woman,45-54
+RBPV0176,MD,Pathology,6,Full-time,,French,,Man,55-64
+RBPV0177,MD,Pathology,7,Full-time,,French,,Man,55-64
+RBPV0178,MD,Pathology,19,Full-time,,Spanish,,Woman,25-34
+RBPV0179,MD,Pathology,1,Full-time,,Nepali,,Man,35-44
+RBPV0180,RN,Pathology,9,Full-time,,Arabic,,Woman,55-64
