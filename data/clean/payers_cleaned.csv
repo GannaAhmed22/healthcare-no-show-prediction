@@ -1,0 +1,9 @@
+payer_id,payer_group
+PAY01,Commercial
+PAY02,Commercial
+PAY03,Medicare
+PAY04,Medicare
+PAY05,Medicaid
+PAY06,Exchange
+PAY07,Self-pay
+PAY08,Other
