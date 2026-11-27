@@ -11,13 +11,12 @@ WITH grouped AS (
              WHEN distance_to_clinic_miles < 20 THEN '3) 10-20 miles'
              ELSE '4) 20+ miles' END AS distance_band,
 
-        -- quintile 5 has very few rows so we merged it with 4
         CASE WHEN deprivation_quintile IN (1, 2) THEN '1) Low'
              WHEN deprivation_quintile = 3       THEN '2) Medium'
              ELSE '3) High' END AS deprivation_level,
 
         no_show_flag
-    FROM fact_appointments
+    FROM appointments
 )
 SELECT
     transport_barrier,
