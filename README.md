@@ -64,9 +64,9 @@ The project requires comparing the performance of multiple classification models
 - Build and compare multiple classification models.
 - Develop an interactive dashboard.
 - Document limitations and responsible use.
+
+
 **Dataset:**
-
-
 Link:[ https://yar177.github.io/intro-to-HDA-site/data-dictionaries.html#dict-ds1-patient-dim-csv](https://yar177.github.io/intro-to-HDA-site/data-dictionaries.html#dict-ds1-patient-dim-csv)
 
 Number of rows: 36K
