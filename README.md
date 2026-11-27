@@ -17,8 +17,55 @@ Missed appointments are a constant drain on healthcare providers. Each no-show l
 - Are patients with a history of missed appointments more likely to miss appointments when they have longer booking lead times?
 - Are patients with a history of missed appointments more likely to miss future appointments, especially when booking lead times are longer?
 - How do transportation barriers, distance, and geographical deprivation interact to influence appointment attendance?
+## 1. Problem Definition
 
+Healthcare providers face missed appointments that reduce operational efficiency and waste healthcare resources. The management needs to understand the factors associated with patient no-shows and identify appointments with a high risk of being missed.
+
+The project aims to develop a classification-based decision support system to analyze appointment behavior and predict no-shows.
+
+## 2. Problem Type
+
+**Supervised Machine Learning – Binary Classification**
+
+The system classifies each appointment into one of two categories:
+
+- No-show
+- Show / Not a no-show
+
+## 3. Target Variable
+
+**Target Variable:** `Flag`
+
+Predict whether a patient will miss their scheduled healthcare appointment.
+
+- `1` = No-show
+- `0` = Not a no-show
+
+## 4. Main Evaluation Metrics
+
+The project requires comparing the performance of multiple classification models but does not specify exact evaluation metrics.
+
+**Recall is the main metric**, because detecting more high-risk appointments can help healthcare providers take preventive actions.
+
+| Metric | Purpose |
+|---|---|
+| Accuracy | Measures the overall percentage of correct predictions. |
+| Precision | Measures how many predicted no-shows are actual no-shows. |
+| Recall | Measures how many actual no-shows are detected. |
+| F1-score | Balances precision and recall. |
+| ROC-AUC | Measures the model's ability to distinguish between the two classes. |
+
+## 5. Project Scope
+
+- Create a relational SQL database.
+- Perform exploratory data analysis (EDA).
+- Handle missing and categorical data.
+- Analyze no-show patterns.
+- Build and compare multiple classification models.
+- Develop an interactive dashboard.
+- Document limitations and responsible use.
 **Dataset:**
+
 
 Link:[ https://yar177.github.io/intro-to-HDA-site/data-dictionaries.html#dict-ds1-patient-dim-csv](https://yar177.github.io/intro-to-HDA-site/data-dictionaries.html#dict-ds1-patient-dim-csv)
 
