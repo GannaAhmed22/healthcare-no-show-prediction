@@ -117,3 +117,17 @@ Number of columns:
 - Plotly
 - Dash
 - Git
+
+---
+
+## Limitations
+
+- The dataset is synthetic, so the results may not reflect real patients.
+- The target is imbalanced: only about 14% of appointments are no-shows. Predicting that everyone shows up gives 86% accuracy, so we used average precision and recall instead of accuracy.
+- The predictive signal is weak. Our best models (Logistic Regression 0.245 and Random Forest 0.242 average precision) are better than the no-skill baseline (0.137), but far from perfect.
+- With balanced class weights, Logistic Regression catches 68% of no-shows, but its precision is only about 20%, so most flagged appointments are false alarms. The threshold has to be chosen based on how many reminder calls the staff can make.
+- Some columns are only known after the visit. We removed wait_to_room_minutes for this reason. cancel_flag is also recorded after the appointment, so it should be checked as a possible leak.
+- Most patients have more than one appointment. The random train/test split can put the same patient in both sets, so the scores may look better than they would on new patients.
+- We did not use a time-based split, and the data only covers 2024-2025, so the model may not hold for later periods.
+- Missing sex_at_birth values were filled with the mode, which can add bias.
+- We only compared Decision Tree, Random Forest and Logistic Regression. Other models like gradient boosting were not tried.
